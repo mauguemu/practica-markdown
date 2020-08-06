@@ -1,2 +1,9 @@
-# practica-markdown
-Práctica de uso de la sintaxis Markdown
+# Práctica de la sintaxis Markdown
+
+## Encabezados 
+
+## Negritas
+
+## Itálicas
+
+## Citas textuales
