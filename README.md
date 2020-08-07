@@ -34,10 +34,16 @@ Miguel de Cervántes (1605)
 
 ![ ](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png)
 
-
-![ ](rlogo.svg)
-
 ## Listas 
+1. Primer elemento
+2. Segundo elemento 
+3. Tercer elemento
+
+## Listas no numeradas
+- Primer elemento
+- Segundo elemento
+- Tercer elemento
+
 
 #HTML
 <h1>Encabezado de nivel 1</h1>
@@ -54,4 +60,6 @@ Miguel de Cervántes (1605)
 <a href=https://www.una.ac.cr/>sitio web de la Universidad Nacional(UNA)en la misma ventana</a>
 
 <a href=https://www.una.ac.cr/>sitio web de la Universidad Nacional(UNA)en otra ventana</a>
+
+<img src="img/
 
