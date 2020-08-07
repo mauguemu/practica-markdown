@@ -32,6 +32,9 @@ Miguel de Cervántes (1605)
 
 ## Imágenes
 
+![https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png
+] 
+
 ## Listas 
 
 #HTML
@@ -48,4 +51,5 @@ Miguel de Cervántes (1605)
 
 <a href=https://www.una.ac.cr/>sitio web de la Universidad Nacional(UNA)en la misma ventana</a>
 
-<a href=https://www.una.ac.cr/>sitio web de la Universidad Nacional(UNA)en otra ventana.</a>
+<a href=https://www.una.ac.cr/>sitio web de la Universidad Nacional(UNA)en otra ventana</a>
+
