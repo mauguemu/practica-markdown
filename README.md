@@ -9,7 +9,7 @@
 ###### Encabezado de nivel 6
 
 ## Itálicas
-*Texto en itálica*
+*Texto en itálica*  
 _otro texto en itálica_
 ## Negritas
 
