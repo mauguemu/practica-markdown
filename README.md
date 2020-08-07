@@ -29,10 +29,23 @@ Miguel de Cervántes (1605)
 
 ## Hipervínculos
 [Sitio web de la Universidad Nacional(UNA)](https://www.una.ac.cr/)
-\
-<(https://www.una.ac.cr/)>
-![Sitio web de la Universidad Nacional(UNA)](https://www.una.ac.cr/)
+
 ## Imágenes
 
 ## Listas 
 
+#HTML
+<h1>Encabezado de nivel 1</h1>
+<h2>Encabezado de nivel 1</h2>
+<h3>Encabezado de nivel 1</h3>
+<h4>Encabezado de nivel 1</h4>
+<h5>Encabezado de nivel 1</h5>
+<h6>Encabezado de nivel 1</h6>
+
+<strong>texto en negrita</strong>
+
+<em>Texto en itálica</em>
+
+<a href=https://www.una.ac.cr/>sitio web de la Universidad Nacional(UNA)en la misma ventana</a>
+
+<a href=https://www.una.ac.cr/>sitio web de la Universidad Nacional(UNA)en otra ventana.</a>
