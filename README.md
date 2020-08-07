@@ -10,8 +10,11 @@
 
 ## Itálicas
 *Texto en itálica*  
-_otro texto en itálica_
+_Otro texto en itálica_
 ## Negritas
+**Texto en negrita*
+\
+__Otro texto en negrita__
 
 ## Citas textuales
 
