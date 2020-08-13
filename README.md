@@ -34,6 +34,10 @@ Miguel de Cervántes (1605)
 
 ![ ](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png)
 
+## Imágenes internas 
+
+![ ](rlogo.png)
+
 ## Listas 
 1. Primer elemento
 2. Segundo elemento 
