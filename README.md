@@ -36,7 +36,7 @@ Miguel de Cervántes (1605)
 
 ## Imágenes internas 
 
-![ ](rlogo.png)
+![ ](img/rlogo.png)
 
 ## Listas 
 1. Primer elemento
