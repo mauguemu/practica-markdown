@@ -40,7 +40,7 @@ Miguel de Cervántes (1605)
 
 ## Imágenes html internas 
 
-< img src="img/rlogo.png" alt="Logo de R"
+<img src="img/rlogo.png" alt="Logo de R">
 
 ## Listas 
 1. Primer elemento
@@ -72,5 +72,5 @@ Miguel de Cervántes (1605)
 
 <a href=https://www.una.ac.cr/>sitio web de la Universidad Nacional(UNA)en otra ventana</a>
 
-<img src="img/
+
 
