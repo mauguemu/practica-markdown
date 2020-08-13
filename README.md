@@ -40,7 +40,7 @@ Miguel de Cervántes (1605)
 
 ## Imágenes html internas 
 
-<img src="img/rlogo.png" alt="Logo de R"
+< img src="img/rlogo.png" alt="Logo de R"
 
 ## Listas 
 1. Primer elemento
